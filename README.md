@@ -10,7 +10,7 @@
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+<img height="10%" width="50%" alt="HDMA" src="https://www.google.com/imgres?q=san%20diego%20map&imgurl=https%3A%2F%2Fwww.sandiegoasap.com%2Fgfx%2Fsd-route-map.gif&imgrefurl=https%3A%2F%2Fwww.sandiegoasap.com%2Fsan-diego-map.html&docid=xdctVJrBfOEPoM&tbnid=uagRJZ77GcEutM&vet=12ahUKEwimrNmC-4mJAxVIH0QIHYUhDn0QM3oECBsQAA..i&w=406&h=620&hcb=2&ved=2ahUKEwimrNmC-4mJAxVIH0QIHYUhDn0QM3oECBsQAA"> 
 
 <!--
 #### Theme: Enhancing Healthcare’s Digital Front Door
