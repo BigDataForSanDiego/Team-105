@@ -42,4 +42,4 @@
 
 #### Team Coordinator GitHub Username: `HanThitNyiNyi`
 
-#### Team Members `Angela Wu, Lakshmi Manasa Maddi, Heidy-Mendez Rodriguez, Ethan Nyi Nyi (Github: HanThitNyiNyi)`
+#### Team Members `Angela Wu [Github: angelawwu236], Lakshmi Manasa Maddi[ManasaMaddi05], Heidy-Mendez Rodriguez, Ethan Nyi Nyi (Github: HanThitNyiNyi)`
